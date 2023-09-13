@@ -9,3 +9,8 @@ git remote -v
 # How to clone remote repository to local?
 git clone then remote repository url
 Ex. git clone https://github.com/ashikur7748/test.git
+
+# Push & Pull
+git push -u origin main
+origin-> remote repository name
+main-> branch name
