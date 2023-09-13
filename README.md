@@ -14,3 +14,19 @@ Ex. git clone https://github.com/ashikur7748/test.git
 git push -u origin main
 origin-> remote repository name
 main-> branch name
+
+# Git Branch & Merge
+# Branch Create
+git branch name
+Ex. git branch development
+# check branch list
+git branch
+* means current branch
+  
+# Swithching Brnach
+git checkout branch name
+Ex. git checkout developement
+# Branch Delete
+git branch -d branch name
+Ex. git branch -d developement
+
