@@ -30,3 +30,12 @@ Ex. git checkout developement
 git branch -d branch name
 Ex. git branch -d developement
 
+# How to get changes specific branch
+git pull <remote_name> <branch_name>
+
+# How to get clone specific branch
+# Default branch is master or main
+git clone -b branch_name repository_URL
+
+
+
